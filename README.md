@@ -26,5 +26,5 @@ In this example, the model confidently predicts the image as "Original." The int
 
 ![image](https://github.com/seiccn/Image-Forgery-Detection/assets/4949583/fabe6b89-ad4a-41f8-825d-8ab1288b04ed)
 
-## Download datasets 👇 :- 
+## Download Dataset 👇  
 Link: https://www.kaggle.com/datasets/saurabhshahane/cg1050/download?datasetVersionNumber=1
